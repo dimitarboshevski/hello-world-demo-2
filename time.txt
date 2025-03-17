@@ -1,11 +1,21 @@
-Current Time in London 🕰️
+Current Time in Major Cities 🌍
 
-Date: March 17, 2025
-Time: 09:47 GMT
+London, UK 🇬🇧
+-----------------
+Date: March 16, 2025
+Time: 14:08 GMT
+Time Zone: Greenwich Mean Time (GMT)
 
-Note: London is currently observing Greenwich Mean Time (GMT)
-Daylight Saving Time (BST) begins on March 30, 2025
+New York, USA 🇺🇸
+------------------
+Date: March 16, 2025
+Time: 10:08 EDT
+Time Zone: Eastern Daylight Time (EDT)
 
-Fun fact: The famous Big Ben clock tower in London has been keeping time for over 160 years! ⏰
+Time Difference: New York is 4 hours behind London
 
-Last updated: March 17, 2025 at 09:47 GMT
+Upcoming Time Changes:
+- London switches to BST (British Summer Time) on March 30, 2025
+- New York is already observing EDT (Daylight Saving Time)
+
+Last updated: March 16, 2025 at 14:08 GMT
