@@ -1,0 +1,20 @@
+Fun Facts About Software Development 🚀
+
+Did you know?
+
+1. The first computer bug was an actual bug! 🐛
+   In 1947, Grace Hopper found a moth causing problems in the Harvard Mark II computer.
+
+2. The term "debugging" came from removing that moth.
+
+3. The first programmer was Ada Lovelace 👩‍💻
+   She wrote the first algorithm intended for processing on a computer.
+
+4. Linux's mascot Tux the penguin was chosen because Linus Torvalds was once bitten by a penguin! 🐧
+
+5. The first website is still online! 
+   You can visit it at: info.cern.ch
+
+Fun fact: This file was created as a GitHub demo on March 17, 2025.
+
+Keep learning and stay curious! 🌟 
