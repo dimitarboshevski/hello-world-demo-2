@@ -21,4 +21,18 @@ Inspiring Technology Quotes 💭
 "Code is like humor. When you have to explain it, it's bad."
 - Cory House
 
+"Programming isn't about what you know; it's about what you can figure out."
+- Chris Pine
+
+"The function of good software is to make the complex appear to be simple."
+- Grady Booch
+
+"First, solve the problem. Then, write the code."
+- John Johnson
+
+"The best error message is the one that never shows up."
+- Thomas Fuchs
+
 Remember: Technology is best when it brings people together! 🤝
+
+PS: These quotes were last updated on March 17, 2025 ✨
