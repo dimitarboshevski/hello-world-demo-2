@@ -33,6 +33,16 @@ Inspiring Technology Quotes 💭
 "The best error message is the one that never shows up."
 - Thomas Fuchs
 
+"Software and cathedrals are much the same – first we build them, then we pray."
+- Sam Redwine
+
+"Clean code always looks like it was written by someone who cares."
+- Robert C. Martin (Uncle Bob)
+
+"The only way to learn a new programming language is by writing programs in it."
+- Dennis Ritchie
+
 Remember: Technology is best when it brings people together! 🤝
 
 PS: These quotes were last updated on March 17, 2025 ✨
+Updated with more wisdom from legendary programmers! 🌟
