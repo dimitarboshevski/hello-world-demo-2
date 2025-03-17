@@ -1,2 +1,10 @@
-Hello, World!
-This is a simple text file created to demonstrate GitHub repository creation and file pushing.
+Hello, GitHub World!
+
+This is an updated version of our text file.
+Here are some fun facts about GitHub:
+1. GitHub was founded in 2008
+2. It was acquired by Microsoft in 2018
+3. It hosts millions of repositories
+4. It's used by developers worldwide
+
+Happy coding! 🚀
